@@ -1,4 +1,4 @@
-# Car Exercise CRUD Application
+Car CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) console application for managing car information using C# and Entity Framework.
 
